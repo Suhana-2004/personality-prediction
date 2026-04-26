@@ -30,5 +30,12 @@ as an interactive Streamlit web application.
 └── p.ipynb              # Model training notebook
 ```
 
+## How to Run
+```
 pip install streamlit scikit-learn pandas numpy seaborn matplotlib
 streamlit run app.py
+```
+
+
+## Tools & Libraries
+Python, Scikit-learn, Streamlit, Pandas, NumPy, Pickle
